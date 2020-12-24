@@ -1,4 +1,4 @@
-# proton-tkg
+# proton-tkg and wine-tkg-git
 Just a way for me to host and back up my Tk-Glitch proton-tkg configs and patches and stuff. 
 
 I also use this repo to post prebuilt releases for both wine-tkg-git and proton-tkg on request. I'm happy to build custom builds for you if you need them. 

@@ -5,6 +5,6 @@ I also use this repo to post prebuilt releases for both wine-tkg-git and proton-
 
 I accept payment in the form of frogs (and paypal donations, but in all seriousness I'm happy to create a build for free if you need one, just file an issue)
 
-Also, donate to TK-Glitch. He's on Patreon, and he's an absolute treasure. 
+Also, actually donate to TK-Glitch. He's on Patreon, and he's an absolute treasure. 
 
 https://www.patreon.com/tkglitch
